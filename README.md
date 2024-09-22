@@ -1,2 +1,2 @@
 # abal-bohora
-New Activator
+New Activator https://github.com/thesuwan/Activator.git
